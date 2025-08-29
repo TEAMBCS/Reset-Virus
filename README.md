@@ -16,8 +16,8 @@ This tool shows how "infect-style" prank scripts work.
 ---
 
 ## 📌 Features
-- 🎭 Stylish ASCII & Rich banners.
-- 🦠 Fake "Virus Infect" menu.
+- 🎭 Stylish ASCII banners.
+- 🦠 "Virus Infect" menu.
 - 📥 Downloads prank APK file into `infect/` folder.
 - 🔗 Provides prank links to victims (fake apps).
 - 📞 Contact menu with group/page links.
@@ -28,10 +28,13 @@ This tool shows how "infect-style" prank scripts work.
 ## 🚀 Installation
 
 ```bash
-# Clone repository
-git clone 
-cd 
+pkg update && pkg upgrade
+pkg install python3 
+git clone https://github.com/TEAMBCS/Reset-Virus.git
+cd Reset-Virus
+chmod +x *
 pip install -r requirements.txt
+python3 virus.py
 ````
 
 ---
