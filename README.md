@@ -85,8 +85,10 @@ The author is **not responsible** for misuse.
 
 ---
 
-👨‍💻 **Author:** Shawon Islam Saim
+👨‍💻 **Author:** Shawon Islam Saim 
+
 🌍 **Team:** BCS
+
 📌 **Version:** 2.0 Update
 
-`
+
